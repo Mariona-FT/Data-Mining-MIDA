@@ -1,4 +1,4 @@
-# DATA MININIG : MIDA
+# Data Mining: MIDA
  MINERIA DE DADES Curs 2023-24 EPSEVG
 
 En aquest repositori, trobareu tots els fitxers necessaris utilitzats i creats per l'assignatura de Mineria de dades al Curs 2023-24 a la Universitat UPC a EPSEVG.
