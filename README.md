@@ -43,7 +43,7 @@ Aquesta activitat implica l'anàlisi de dades de moviments borsaris utilitzant a
 
 ## Autora
 
-Aquesta repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
+Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
 
 
 Gràcies per visitar aquest repositori :)
